@@ -1,1 +1,0 @@
-submitAna.py -i /lustre/cms/store/user/azaza/QCD_PT-600to800_TuneCP5_13p6TeV_pythia8/crab_QCD_PT-600to800_TuneCP5_13p6TeV_pythia8_Run3Summer22MiniAODv3-124X_mcRun3_2022_realistic_v12-v2/230405_184254/ -L 8924. -s QCD_PT-600to800_TuneCP5_13p6TeV_pythia8 |& tee output_test

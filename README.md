@@ -44,16 +44,16 @@ All outputs produced in 0.0h:0.0m:26.9s
 
 The code can be run in multithread with the option `-MT` (this option can not be run together with `-N`). More option are available in `submit_example.py`:
 ```
-        parser.add_argument("-l", "--logLevel", help="set log level", default="INFO", choices=["DEBUG", "INFO"])
-        parser.add_argument("-MT","--MultiThread", help="enable multithread", action="store_true")
-        parser.add_argument("-i","--InputPath", help="Input root files path",default="")
-        parser.add_argument("-t","--TreeName", help="name of the tree to be processed, i.e. Ana/passedEvents",default="Ana/passedEvents")
-        parser.add_argument("-H","--HistoName", help="name of the histo stoting the total number of events, i.e. Ana/nEvents",default="Ana/nEvents")
-        parser.add_argument("-ot","--OutputTreeName", help="tree name to be used for the output",default="passedEvents")
-        parser.add_argument("-otf","--OutputFileTreeName", help="file name of the output file to store trees",default="Output_tree.root")
-        parser.add_argument("-ohf","--OutputFileHistoName", help="file name of the output file to store histos",default="Output_histo.root")
-        parser.add_argument("-p","--PreselectionCut", help="preselection cut to be applied",default="")
-        parser.add_argument("-L","--Lumi", help="luminosity to target in pb",default="-1")
-        parser.add_argument("-s","--SampleName", help="sample name used in the xsec database",default="sample")
-        parser.add_argument("-N","--NEvents", help="select NEvents to be processed", default="-1")
+parser.add_argument("-l", "--logLevel", help="set log level", default="INFO", choices=["DEBUG", "INFO"])
+parser.add_argument("-MT","--MultiThread", help="enable multithread", action="store_true")
+parser.add_argument("-i","--InputPath", help="Input root files path",default="")
+parser.add_argument("-t","--TreeName", help="name of the tree to be processed, i.e. Ana/passedEvents",default="Ana/passedEvents")
+parser.add_argument("-H","--HistoName", help="name of the histo stoting the total number of events, i.e. Ana/nEvents",default="Ana/nEvents")
+parser.add_argument("-ot","--OutputTreeName", help="tree name to be used for the output",default="passedEvents")
+parser.add_argument("-otf","--OutputFileTreeName", help="file name of the output file to store trees",default="Output_tree.root")
+parser.add_argument("-ohf","--OutputFileHistoName", help="file name of the output file to store histos",default="Output_histo.root")
+parser.add_argument("-p","--PreselectionCut", help="preselection cut to be applied",default="")
+parser.add_argument("-L","--Lumi", help="luminosity to target in pb",default="-1")
+parser.add_argument("-s","--SampleName", help="sample name used in the xsec database",default="sample")
+parser.add_argument("-N","--NEvents", help="select NEvents to be processed", default="-1")
 ```
