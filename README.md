@@ -26,7 +26,7 @@ How to run
 Under scripts there is the basic example `submitAna_example.py` to process a MC dataset with `Analysis_Ak8Tagger.py`. 
 
 ```
-submitAna.py -i /lustre/cms/store/user/azaza/QCD_PT-600to800_TuneCP5_13p6TeV_pythia8/crab_QCD_PT-600to800_TuneCP5_13p6TeV_pythia8_Run3Summer22MiniAODv3-124X_mcRun3_2022_realistic_v12-v2/230405_184254/ -L 8924. -s QCD_PT-600to800_TuneCP5_13p6TeV_pythia8 -N 100 |& tee output_test
+submitAna_example.py -i /lustre/cms/store/user/azaza/QCD_PT-600to800_TuneCP5_13p6TeV_pythia8/crab_QCD_PT-600to800_TuneCP5_13p6TeV_pythia8_Run3Summer22MiniAODv3-124X_mcRun3_2022_realistic_v12-v2/230405_184254/ -L 8924. -s QCD_PT-600to800_TuneCP5_13p6TeV_pythia8 -N 100 |& tee output_test
 
 INFO:QCD_PT-600to800_TuneCP5_13p6TeV_pythia8:Reading files: /lustre/cms/store/user/azaza/QCD_PT-600to800_TuneCP5_13p6TeV_pythia8/crab_QCD_PT-600to800_TuneCP5_13p6TeV_pythia8_Run3Summer22MiniAODv3-124X_mcRun3_2022_realistic_v12-v2/230405_184254/
 INFO:QCD_PT-600to800_TuneCP5_13p6TeV_pythia8:- LumiTarget=8924.
