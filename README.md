@@ -11,7 +11,7 @@ package to run different analysis configurations with the same class. Common cla
 - `XSecDataBase`: class storing a dictionary of the cross-section of the various samples used in the analysis.
 
 Example of a user class:
-- `Analysis_Ak8Tagger.py`: child class of `Handler.py` used to skim the initial tree and to add new variables.
+- `Analysis_Ak8Tagger.py`: child class of `Handler.py` used to skim the initial tree, to add new variables and to produce 1D/2D histograms for AK8Analysis.
 
 ------------------------------------
 Setup
