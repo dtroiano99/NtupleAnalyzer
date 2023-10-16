@@ -1,0 +1,15 @@
+pol
+score region #0: Data = 147806 || MC Zqq = 603.262#pm8.53268 || QCD = 219816#pm207.245 || Data-driven Zqq = -72010.3#pm436.757 ||total QCD = 219816#pm28.3522
+score region #1: Data = 52686 || MC Zqq = 824.679#pm10.0155 || QCD = 67920#pm112.434 || Data-driven Zqq = -15234#pm255.592 ||total QCD = 67919.8#pm20.8738
+score region #2: Data = 19390 || MC Zqq = 1063.68#pm11.4159 || QCD = 22062#pm37.9319 || Data-driven Zqq = -2671.97#pm144.322 ||total QCD = 22061.9#pm12.1367
+score region #3: Data = 6154 || MC Zqq = 1388.08#pm13.0436 || QCD = 5956.54#pm22.5955 || Data-driven Zqq = 197.461#pm81.6367 ||total QCD = 5956.53#pm9.38568
+Cebysev
+score region #0: Data = 147806 || MC Zqq = 603.262#pm8.53268 || QCD = 219816#pm112.338 || Data-driven Zqq = -72010.3#pm400.532 ||total QCD = 219816#pm20.8992
+score region #1: Data = 52686 || MC Zqq = 824.679#pm10.0155 || QCD = 67920#pm61.7317 || Data-driven Zqq = -15234#pm237.691 ||total QCD = 67919.8#pm15.4998
+score region #2: Data = 19390 || MC Zqq = 1063.68#pm11.4159 || QCD = 22062#pm36.7544 || Data-driven Zqq = -2671.97#pm144.017 ||total QCD = 22061.9#pm11.9411
+score region #3: Data = 6154 || MC Zqq = 1388.08#pm13.0436 || QCD = 5956.54#pm22.5955 || Data-driven Zqq = 197.462#pm81.6367 ||total QCD = 5956.52#pm9.38568
+DF
+score region #0: Data = 147806 || MC Zqq = 603.262#pm8.53268 || QCD = 220285#pm160.731 || Data-driven Zqq = -72479.1#pm416.702 ||total QCD = 220285#pm25.1839
+score region #1: Data = 52686 || MC Zqq = 824.679#pm10.0155 || QCD = 67399.5#pm88.9182 || Data-driven Zqq = -14713.5#pm246.155 ||total QCD = 67399.4#pm18.7302
+score region #2: Data = 19390 || MC Zqq = 1063.68#pm11.4159 || QCD = 22185.3#pm0 || Data-driven Zqq = -2795.31#pm139.248 ||total QCD = 22185.3#pm0
+score region #3: Data = 6154 || MC Zqq = 1388.08#pm13.0436 || QCD = 5891.15#pm25.9387 || Data-driven Zqq = 262.853#pm82.6246 ||total QCD = 5891.14#pm10.1185
