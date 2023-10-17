@@ -1,8 +1,0 @@
-DDX_BBvsQCD bin0
-Difference of the integrals: 1057.67 (1%) at the iteration numeber 14
-DDX_BBvsQCD bin1
-Difference of the integrals: 226.986 (0.6%) at the iteration numeber 3
-DDX_BBvsQCD bin2
-Difference of the integrals: 300.443 (2.3%) at the iteration numeber 2
-DDX_BBvsQCD bin3
-Difference of the integrals: 242.184 (7.1%) at the iteration numeber 3
