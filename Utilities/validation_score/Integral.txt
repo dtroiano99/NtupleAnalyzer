@@ -1,5 +1,0 @@
-Cebysev
-score region #0: Data = 108264#pm329.035 || MC Zqq = 1605.42#pm13.9942 || QCD = 105755#pm79.1109 || Data-driven Zqq = 2508.55#pm338.412 ||total QCD = 105755#pm2937.93 (306.888+2921.86)
-score region #1: Data = 37773#pm194.353 || MC Zqq = 1185.09#pm11.9685 || QCD = 36459.8#pm57.6919 || Data-driven Zqq = 1313.22#pm202.735 ||total QCD = 36459.7#pm7009.38 (225.824+7005.74)
-score region #2: Data = 14736#pm121.392 || MC Zqq = 1183.56#pm11.8843 || QCD = 13227.2#pm28.4147 || Data-driven Zqq = 1508.84#pm124.673 ||total QCD = 13227.1#pm1015.85 (110.644+1009.8)
-score region #3: Data = 4762#pm69.0072 || MC Zqq = 1263.28#pm12.5059 || QCD = 3614.2#pm14.8746 || Data-driven Zqq = 1147.8#pm70.5922 ||total QCD = 3614.19#pm515.912 (57.8503+512.658)
