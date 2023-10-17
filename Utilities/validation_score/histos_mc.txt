@@ -1,4 +1,0 @@
-
-Processing Histo_MC.C...
-writing root files
-root files completed
