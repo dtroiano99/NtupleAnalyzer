@@ -1,0 +1,16 @@
+Cebysev
+
+Chi2 normalized
+4
+740.474 1.25785 1.27846 1.57847 
+6.09277 5.98054 4.77394 2.84114 
+5.43828 1.57761 0.988743 0.112767 
+2.41988 1.75603 1.3537 1.42138 
+
+Best # of parameters
+
+score region #0: 1 order
+score region #1: 0 order
+score region #2: 3 order
+score region #3: 0 order
+

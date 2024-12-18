@@ -1,0 +1,47 @@
+imax 1
+jmax 4
+kmax *
+---------------
+shapes * * Datacard_bin0_wW.txt $PROCESS $PROCESS_$SYSTEMATIC
+---------------
+bin bin1
+observation 63882
+------------------------------
+bin            bin1           bin1           bin1           bin1           bin1
+process        Zbb            Zcc            Zll            QCD            Wjets
+process        -2             -1             0              1              2
+rate           530.022        385.282        171.151        62594.3        1448.02        
+--------------------------------
+fit_s0              shape          -              -              -              1              -              
+window_s0           shape          -              -              -              1              -              
+lumi                lnN            1.022          1.022          1.022          -              1.022          
+AbsoluteFlavMap_s0  shape          1              1              1              -              1              
+AbsoluteMPFBias_s0  shape          1              1              1              -              1              
+AbsoluteSample_s0   shape          1              1              1              -              1              
+AbsoluteScale_s0    shape          1              1              1              -              1              
+AbsoluteStat_s0     shape          1              1              1              -              1              
+FlavorQCD_s0        shape          1              1              1              -              1              
+Fragmentation_s0    shape          1              1              1              -              1              
+PileUpDataMC_s0     shape          1              1              1              -              1              
+PileUpPtBB_s0       shape          1              1              1              -              1              
+PileUpPtEC1_s0      shape          1              1              1              -              1              
+PileUpPtEC2_s0      shape          1              1              1              -              1              
+PileUpPtHF_s0       shape          1              1              1              -              1              
+PileUpPtRef_s0      shape          1              1              1              -              1              
+RelativeBal_s0      shape          1              1              1              -              1              
+RelativeFSR_s0      shape          1              1              1              -              1              
+RelativeJEREC1_s0   shape          1              1              1              -              1              
+RelativeJEREC2_s0   shape          1              1              1              -              1              
+RelativeJERHF_s0    shape          1              1              1              -              1              
+RelativePtBB_s0     shape          1              1              1              -              1              
+RelativePtEC1_s0    shape          1              1              1              -              1              
+RelativePtEC2_s0    shape          1              1              1              -              1              
+RelativePtHF_s0     shape          1              1              1              -              1              
+RelativeSample_s0   shape          1              1              1              -              1              
+RelativeStatEC_s0   shape          1              1              1              -              1              
+RelativeStatFSR_s0  shape          1              1              1              -              1              
+RelativeStatHF_s0   shape          1              1              1              -              1              
+SinglePionECAL_s0   shape          1              1              1              -              1              
+SinglePionHCAL_s0   shape          1              1              1              -              1              
+TimePtEta_s0        shape          1              1              1              -              1              
+bin1                autoMCStats    0.01           1              

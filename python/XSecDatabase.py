@@ -32,3 +32,10 @@ class XSecDatabase(object):
 		self.database["QCD_PT-1800to2400_TuneCP5_13p6TeV_pythia8"] = 0.1149
 		self.database["QCD_PT-2400to3200_TuneCP5_13p6TeV_pythia8"] = 0.007619
 		self.database["QCD_PT-3200toInf_TuneCP5_13p6TeV_pythia8"] = -1.
+
+
+                ##WJetsToQQ 
+		self.database["Wto2Q-3Jets_HT-200to400_TuneCP5_13p6TeV_madgraphMLM-pythia8"] = 2738
+		self.database["Wto2Q-3Jets_HT-400to600_TuneCP5_13p6TeV_madgraphMLM-pythia8"] = 298.6
+		self.database["Wto2Q-3Jets_HT-600to800_TuneCP5_13p6TeV_madgraphMLM-pythia8"] = 64.31
+		self.database["Wto2Q-3Jets_HT-800toInf_TuneCP5_13p6TeV_madgraphMLM-pythia8"] = 31.98

@@ -1,8 +1,0 @@
-PN-MD_BBvsQCD bin0
-Difference of the integrals: 701.036 (0.9%) at the iteration numeber 1
-PN-MD_BBvsQCD bin1
-Difference of the integrals: 331.445 (1.1%) at the iteration numeber 14
-PN-MD_BBvsQCD bin2
-Difference of the integrals: 143.977 (1.3%) at the iteration numeber 5
-PN-MD_BBvsQCD bin3
-Difference of the integrals: 45.8929 (1%) at the iteration numeber 10

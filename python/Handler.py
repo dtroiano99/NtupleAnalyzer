@@ -43,7 +43,8 @@ class Handler(object):
 
 	def AddLumiWeight(self,LumiTarget="1.",xsecName=""):
 
-		from XSecDatabase import XSecDatabase
+		from XSecDatabase2023 import XSecDatabase
+                #from XSecDatabase2023 import XSecDatabase
 		xsecName= xsecName if not xsecName=="" else self.name
 		if xsecName in XSecDatabase().database.keys():
 			xsecDB = XSecDatabase().database[xsecName]
@@ -80,6 +81,10 @@ class Handler(object):
 	def WriteTree(self,outTreeName,outFileName,columns=None,fMode="RECREATE"):
 		
 		if columns==None: columns=self.rdframe.GetColumnNames()
+
+		#for x in columns:
+			#print(x)
+
 		snapshotOptions = ROOT.RDF.RSnapshotOptions()
 		snapshotOptions.fMode=fMode
 		####
